@@ -18,6 +18,7 @@ Thumbs.db
 # composer
 /vendor/
 composer.phar
+composer.lock
 
 # node
 /node_modules/
